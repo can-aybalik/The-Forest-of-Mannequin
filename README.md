@@ -11,13 +11,20 @@ In this game, you are in a forest and the sky is quite dark (Wow, what a surpris
 
 -SHIFT to run
 
-Game link: https://canaybalik.itch.io/the-forest-of-mannequin
+## Game Link 
+https://canaybalik.itch.io/the-forest-of-mannequin
 
 Very complex download instructions:
 1. Download the game
 2. Click the game
 
-# Screenshots
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/61124496/106884047-dca6c300-66f1-11eb-849f-2cb004d8c935.png)
+![2](https://user-images.githubusercontent.com/61124496/106884051-ddd7f000-66f1-11eb-91d4-11416ff43ad5.png)
+![3](https://user-images.githubusercontent.com/61124496/106884053-df091d00-66f1-11eb-90b0-2b41ff239b21.png)
+![4](https://user-images.githubusercontent.com/61124496/106884055-df091d00-66f1-11eb-97b4-ea27b9b7bd8c.png)
+
 
 
 
