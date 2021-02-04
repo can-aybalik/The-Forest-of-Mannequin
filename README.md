@@ -1,4 +1,7 @@
 # The Forest of Mannequin
+
+Here, you can find all the source codes and project file (Unity) for this project.
+
 In this game, you are in a forest and the sky is quite dark (Wow, what a surprise) A mysterious and terrifying creature -mannequin- visits this forest. He's actually friendly and wants to have a barbecue with you. NO! He is going to kill you because this is a horror game, not pokemon.
 
 -WASD to move
