@@ -36,6 +36,10 @@ Very complex download instructions:
 
 ## YouTubers that played the game
 
+### Max Horror
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SN7pxyYFaj8/0.jpg)](https://www.youtube.com/watch?v=SN7pxyYFaj8)
+
 ### Stella Abbasi
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xG4KcbvTwBA/0.jpg)](https://www.youtube.com/watch?v=xG4KcbvTwBA)
