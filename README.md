@@ -72,7 +72,7 @@ Very complex download instructions:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IbLgxDmihb8/0.jpg)](https://www.youtube.com/watch?v=IbLgxDmihb8)
 
-### OshonPlayer
+### Oshon Player
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CAFui0WR7rg/0.jpg)](https://www.youtube.com/watch?v=CAFui0WR7rg)
 
